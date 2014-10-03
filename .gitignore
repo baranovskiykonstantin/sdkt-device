@@ -1,0 +1,6 @@
+*[.-]bak
+*.o
+.ycm_extra_conf.py*
+main.c.new
+main.elf
+main.hex

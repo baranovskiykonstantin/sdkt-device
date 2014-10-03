@@ -1,0 +1,395 @@
+Cmp-Mod V01 Created by CvPcb (2014-jan-25)-product date = Чтв 27 Мар 2014 12:27:00
+
+BeginCmp
+TimeStamp = /5253A4D9;
+Reference = C1;
+ValeurCmp = 47 мк;
+IdModule  = Конденсаторы:C_3216_SMA;
+EndCmp
+
+BeginCmp
+TimeStamp = /522F13B4;
+Reference = C2;
+ValeurCmp = 27;
+IdModule  = Конденсаторы:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /522F13C4;
+Reference = C3;
+ValeurCmp = 27;
+IdModule  = Конденсаторы:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /523C214B;
+Reference = C4;
+ValeurCmp = 0.1мк;
+IdModule  = Конденсаторы:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /522F2631;
+Reference = C5;
+ValeurCmp = 0.1мк;
+IdModule  = Конденсаторы:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /512E2051;
+Reference = C6;
+ValeurCmp = 330;
+IdModule  = Конденсаторы:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /512E1F92;
+Reference = C7;
+ValeurCmp = 1мк;
+IdModule  = Конденсаторы:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52501009;
+Reference = DA1;
+ValeurCmp = К544УД2А;
+IdModule  = Микросхемы:DIP-8-300;
+EndCmp
+
+BeginCmp
+TimeStamp = /52270981;
+Reference = DD1;
+ValeurCmp = ATTINY24A;
+IdModule  = Микросхемы:SO14-150;
+EndCmp
+
+BeginCmp
+TimeStamp = /522F3654;
+Reference = HL1;
+ValeurCmp = RED;
+IdModule  = Диоды:LED_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /525F9888;
+Reference = HL2;
+ValeurCmp = RED;
+IdModule  = Диоды:LED_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /522F31F7;
+Reference = HL3;
+ValeurCmp = GREEN;
+IdModule  = Диоды:LED_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /522EEDE7;
+Reference = R1;
+ValeurCmp = 1к6;
+IdModule  = Резисторы:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /522EF56D;
+Reference = R2;
+ValeurCmp = 75;
+IdModule  = Резисторы:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /522EF578;
+Reference = R3;
+ValeurCmp = 75;
+IdModule  = Резисторы:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /522F3649;
+Reference = R4;
+ValeurCmp = 470;
+IdModule  = Резисторы:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /525F9880;
+Reference = R5;
+ValeurCmp = 2к7;
+IdModule  = Резисторы:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5333F3A5;
+Reference = R6;
+ValeurCmp = 10к;
+IdModule  = Резисторы:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /522F2621;
+Reference = R7;
+ValeurCmp = 10к;
+IdModule  = Резисторы:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52271579;
+Reference = R8;
+ValeurCmp = 10к;
+IdModule  = Резисторы:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52271569;
+Reference = R9;
+ValeurCmp = 10к;
+IdModule  = Резисторы:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /522F3300;
+Reference = R10;
+ValeurCmp = 470;
+IdModule  = Резисторы:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /512DF79E;
+Reference = R11;
+ValeurCmp = 820;
+IdModule  = Резисторы:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /5333EAA2;
+Reference = R12;
+ValeurCmp = 2.2к;
+IdModule  = Резисторы:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5333EA91;
+Reference = R13;
+ValeurCmp = 10к;
+IdModule  = Резисторы:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5333EA80;
+Reference = R14;
+ValeurCmp = 100к;
+IdModule  = Резисторы:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /512E20F0;
+Reference = R15;
+ValeurCmp = 1к;
+IdModule  = Резисторы:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /526D00F2;
+Reference = R16;
+ValeurCmp = 22;
+IdModule  = Резисторы:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /512DF712;
+Reference = R17;
+ValeurCmp = 22;
+IdModule  = Резисторы:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /512E1F56;
+Reference = R18;
+ValeurCmp = 3.6к;
+IdModule  = Резисторы:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /512E2012;
+Reference = R19;
+ValeurCmp = 10к;
+IdModule  = Резисторы:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /522F0476;
+Reference = R20;
+ValeurCmp = 1к;
+IdModule  = Резисторы:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /512E24CB;
+Reference = R21;
+ValeurCmp = 82к;
+IdModule  = Резисторы:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /512F3295;
+Reference = R22;
+ValeurCmp = 820;
+IdModule  = Резисторы:R_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /52303D9E;
+Reference = R23;
+ValeurCmp = 1к;
+IdModule  = Резисторы:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /512E2628;
+Reference = R24;
+ValeurCmp = 300;
+IdModule  = Резисторы:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /525007DF;
+Reference = SB1;
+ValeurCmp = SWT-2;
+IdModule  = Выключатели_и_кнопки:SWT6-V;
+EndCmp
+
+BeginCmp
+TimeStamp = /522F2A7E;
+Reference = SB2;
+ValeurCmp = SWT-6;
+IdModule  = Выключатели_и_кнопки:SWT6-V;
+EndCmp
+
+BeginCmp
+TimeStamp = /5333E8F9;
+Reference = U1;
+ValeurCmp = AOT128A;
+IdModule  = Микросхемы:DIP6-300;
+EndCmp
+
+BeginCmp
+TimeStamp = /522EEDF2;
+Reference = VD1;
+ValeurCmp = BZV55-C3V3;
+IdModule  = Диоды:SOD80;
+EndCmp
+
+BeginCmp
+TimeStamp = /522EEF55;
+Reference = VD2;
+ValeurCmp = BZV55-C3V3;
+IdModule  = Диоды:SOD80;
+EndCmp
+
+BeginCmp
+TimeStamp = /512DF859;
+Reference = VD3;
+ValeurCmp = BZV55-C6V2;
+IdModule  = Диоды:SOD80;
+EndCmp
+
+BeginCmp
+TimeStamp = /512DF8C4;
+Reference = VD4;
+ValeurCmp = BZV55-C6V2;
+IdModule  = Диоды:SOD80;
+EndCmp
+
+BeginCmp
+TimeStamp = /512DF676;
+Reference = VD5;
+ValeurCmp = 1N5822;
+IdModule  = Диоды:DO-201;
+EndCmp
+
+BeginCmp
+TimeStamp = /512E2130;
+Reference = VD6;
+ValeurCmp = LL4148;
+IdModule  = Диоды:SOD80;
+EndCmp
+
+BeginCmp
+TimeStamp = /512E213D;
+Reference = VD7;
+ValeurCmp = LL4148;
+IdModule  = Диоды:SOD80;
+EndCmp
+
+BeginCmp
+TimeStamp = /512F329B;
+Reference = VD8;
+ValeurCmp = 1N5822;
+IdModule  = Диоды:DO-201;
+EndCmp
+
+BeginCmp
+TimeStamp = /512DF8FF;
+Reference = VT1;
+ValeurCmp = BC847;
+IdModule  = Транзисторы:SOT23-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /512DF8E3;
+Reference = VT2;
+ValeurCmp = BC847;
+IdModule  = Транзисторы:SOT23-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5333EAC9;
+Reference = VT3;
+ValeurCmp = BC847;
+IdModule  = Транзисторы:SOT23-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /512DF61D;
+Reference = VT4;
+ValeurCmp = BCX54;
+IdModule  = Транзисторы:SOT89;
+EndCmp
+
+BeginCmp
+TimeStamp = /522EEDD5;
+Reference = XS1;
+ValeurCmp = USB;
+IdModule  = Разъемы:USBB-1J;
+EndCmp
+
+BeginCmp
+TimeStamp = /5227063B;
+Reference = XS2;
+ValeurCmp = DB9-M;
+IdModule  = Разъемы:DRB-9MA;
+EndCmp
+
+BeginCmp
+TimeStamp = /522F22F6;
+Reference = XT1;
+ValeurCmp = PLD-10;
+IdModule  = Разъемы:PLD-10;
+EndCmp
+
+BeginCmp
+TimeStamp = /5230383F;
+Reference = XT2;
+ValeurCmp = 282844-2;
+IdModule  = Разъемы:282844-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /522F13D1;
+Reference = ZQ1;
+ValeurCmp = 12 МГц;
+IdModule  = Прочее:HC49;
+EndCmp
+
+EndListe
